@@ -3,8 +3,6 @@
 <img align="right" height="150" src="https://img1.picmix.com/output/stamp/normal/5/2/2/9/189225_5ced9.gif"  />
 <h3 align="center">Currently I am a front-end developer and I am responsible for translating the design, achieving an accessible user interface, and ensuring the proper usability of the system. The programming languages I'm interested in are Dart, TypeScript, and JavaScript.</h3>
 
-- 🔭 I’m currently working on **9780**
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
