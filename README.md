@@ -3,7 +3,6 @@
 <h3 align="center">Hello, currently I am a front-end developer and I am responsible for translating the design, achieving an accessible user interface, and ensuring the proper usability of the system. The programming languages I'm interested in are Dart, TypeScript, and JavaScript.</h3>
 
 - 🔭 I’m currently working on **9780**
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
